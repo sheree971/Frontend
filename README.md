@@ -1,32 +1,34 @@
-**Hey, I'm Jay 👋**  
-I create beginner-friendly content to help students learn front-end development.  
-From CSS and JavaScript to React and Node.js, I enjoy breaking down concepts and sharing what I learn.
+### 👋 Hey there, I'm Sheree!
 
-🎥 **YouTube Tutorials**  
-- Coding Essentials  
-- Front End Basics
+🚀 On a mission to make **front-end development** fun and accessible for students!  
+🎯 I break down complex concepts into bite-sized, beginner-friendly tutorials and projects.
 
-📚 **Helpful References**  
+💡 **What I’m building:**  
+- 🎨 *CSSProjects* – Styling made simple  
+- ⚙️ *JavaScriptConcepts* – Logic that clicks  
+- ⚛️ *ReactJSForStudents* – Components, hooks & magic  
+- 🧩 *BootstrapForStudents* – Fast, responsive UIs  
+- 🌐 *NodeJSForStudents* – Backend basics for beginners  
+- 📚 *Front End For Students* – Your go-to learning hub
+
+📺 **Watch & Learn**  
+- [Coding Essentials](https://www.youtube.com/playlist?list=PL7SHzFbuSdW0LWKYOOMPVzVVCa_BtnuZb)  
+- Front End Basics  
+🔔 Subscribe to **Jay's Coding Channel** on YouTube for weekly tutorials!
+
+📖 **Resources I love**  
 - JavaScript Algorithms – freeCodeCamp  
 - Responsive Web Design – freeCodeCamp
 
-🧠 Projects  
-- Front End For Students  
-- CSSProjects  
-- JavaScriptConcepts  
-- ReactJSForStudents  
-- BootstrapForStudents  
-- NodeJSForStudents
-
 📅 **Book a session**  
-- Calendly
+- Let’s chat on Calendly
 
-🤝 Let’s connect* 
+🌐 **Let’s connect**  
 - GitHub  
 - Personal Site  
 - Upwork  
 - Fiverr  
 - Codementor  
 - Stack Overflow  
-- YouTube Channel  
 - Medium Blog
+
